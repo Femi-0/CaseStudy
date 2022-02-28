@@ -1,6 +1,6 @@
 # Case Study
 
-# TITLE: Company Case Study, Owl.
+# TITLE: Company Case Study: Owl.
 
 <hr/>
 
@@ -79,7 +79,7 @@ Already able to monitor fraudulent claims, the company may be interested in assi
 
 This would diversify the customer base of the company and expand its customer base, while only requiring minimal effort to adapt to the terms under which governments operate.
 
-#REFERENCES
+# REFERENCES
 
 1. <https://startupheretoronto.com/type/startup-news/owl-co-raises-2-6-million-cad-for-encrypted-data-collection-platform/>
 
